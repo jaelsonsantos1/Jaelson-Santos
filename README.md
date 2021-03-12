@@ -1,4 +1,4 @@
-# Jaelson Santos 😎
+# Jaelson Santos
 ---
 ### Um pouco sobre mim!
 Olá me chamo Jaelson e tenho 17 anos. Pretendo futuramente seguir minha carreira na área de programação, para ser mais específico, ciência da computação. Atualmente tenho me dedicado ao máximo para aprender mais sobre programação.
